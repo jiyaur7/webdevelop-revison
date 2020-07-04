@@ -40,3 +40,13 @@ img{
     margin-left: 70px;
     border-radius: 140px;
 }
+img:hover{
+    background-color: #6B0083;
+
+}
+input:focus{
+    color: crimson;
+    border: 5px solid blue;
+    font-size: 15px;
+    font-weight: bold;
+}
