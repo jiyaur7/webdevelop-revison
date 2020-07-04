@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 5%;
+    padding: 2%;
+}
+p{
+    font-size: 30px;
+}
+#note{
+    color: white;
+    background-color: #e01a1a;
+}
+#border{
+    border: 2px solid blue;
+border-radius: 5px;
+padding: 5px 50px;
+max-width: 500px;
+
+}
+#padding{
+    padding: 10px 15px;
+    background-color: cadetblue;
+    border-radius: 5px;
+}
