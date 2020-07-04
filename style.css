@@ -22,3 +22,21 @@ max-width: 500px;
     background-color: cadetblue;
     border-radius: 5px;
 }
+.text{
+    text-align: right;
+    color: chartreuse;
+
+
+}
+.img-text{
+   
+    height: 500px;
+}
+img{
+    width:25%;
+     border: 2px solid red;
+    float: left;
+    margin: 5px 15px;
+    margin-left: 70px;
+    border-radius: 140px;
+}
