@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
-    margin: 5%;
-    padding: 2%;
+    margin: 0px;
+    padding: 4%;
 }
 p{
     font-size: 30px;
@@ -49,4 +49,7 @@ input:focus{
     border: 5px solid blue;
     font-size: 15px;
     font-weight: bold;
+}
+.container{
+    
 }
